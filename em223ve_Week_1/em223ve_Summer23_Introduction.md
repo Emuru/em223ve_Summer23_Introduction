@@ -2,8 +2,6 @@
 ## Introduktion
 Undertecknad är en ~~39~~ 40-årig trebarnsfar som huserar i en av Stockholms trevligare södra närförorter. Arbete och familj sväljer större delen av dygnets timmar och nu ska jag försöka att även trycka in lite studier. Det ska bli kul.
 
-
----
 ## Övriga uppgifter
 ### Kodblock
 En favoritsnippet för bash i två varianter.
